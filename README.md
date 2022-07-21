@@ -14,12 +14,6 @@ Install Nala
 sudo apt update && sudo apt install nala -y
 ```
 
-Put the Alias to your bashrc
-
-```
-echo "alias apt='nala'" >> .bashrc
-```
-
-Congrats! You are ready to go! do "sudo apt update" and see how amazing it looks! 
+Congrats! You are ready to go! do "sudo nala update" and see how amazing it looks! 
 
 Your eyes won't tear any more.
